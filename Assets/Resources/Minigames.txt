@@ -1,0 +1,55 @@
+Minigame
+    - Name: Alexander Simulator
+    - Scene: CoolScene
+    - Credits: 
+        - Daniel Tian
+        - Alexander Wang
+Minigame
+    - Name: Don't Exit
+    - Scene: DontExit
+    - Credits: 
+Minigame
+    - Name: Maurice'd
+    - Scene: Mauriced
+    - Credits: 
+        - Ethan Thompson
+Minigame
+    - Name: Fish Food
+    - Scene: Feed
+    - Credits: 
+        - Nicholas Way
+Minigame
+    - Name: Juump
+    - Scene: Minigame 2
+    - Credits: 
+        - Gavin McGinness
+Minigame
+    - Name: Yardwork
+    - Scene: Minigame 1
+    - Credits: 
+        - Gavin McGinness
+Minigame
+    - Name: Checkpoint
+    - Scene: N_PapersPlease
+    - Credits: 
+        - Nicholas Way
+Minigame
+    - Name: Parry!
+    - Scene: Parry!
+    - Credits: 
+        - Nicholas Way
+Minigame
+    - Name: ReuniteSeals
+    - Scene: ReuniteSeals
+    - Credits: 
+        - Megan Colombo
+Minigame
+    - Name: Defend the Oreos
+    - Scene: Defend The Oreos
+    - Credits: 
+        - Nikhil Ghosh
+Minigame
+    - Name: Strike Gold
+    - Scene: Strike Gold
+    - Credits: 
+        - Nikhil Ghosh
