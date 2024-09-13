@@ -20,6 +20,11 @@ public class GameOverScreen : MonoBehaviour
         reasonText.text = ReasonToText(reason);
     }
 
+    public void Hide()
+    {
+        gameObject.SetActive(false);
+    }
+
     string ReasonToText(EndModeReason reason)
     {
         switch(reason)

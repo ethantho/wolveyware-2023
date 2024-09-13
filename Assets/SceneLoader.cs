@@ -16,4 +16,10 @@ public class SceneLoader : MonoBehaviour
     {
         
     }
+
+    public void LoadScene(string SceneName)
+    {
+        SceneManager.LoadScene(SceneName);
+        WolveywareCanvasManager.Instance.gameOverScreen.Hide();
+    }
 }
