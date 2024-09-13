@@ -12,6 +12,8 @@ public enum EndModeReason
 public abstract class ModeManager : MonoBehaviour
 {
     public static ModeManager Instance { get; protected set; }
+    public bool isBlitzMode = false;
+    public int lives = 0;
 
     public virtual void StartMode()
     {

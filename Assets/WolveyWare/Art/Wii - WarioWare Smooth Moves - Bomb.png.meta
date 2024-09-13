@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: 7f4a8db4079401e45a3a4f3e6ec16171
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 580
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6583144e010a40824900fe1c5c9d6
+      internalID: -25349696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 324
+        width: 501
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a6c8c3387f114aab9e3238b55a787
+      internalID: 1118616182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 421
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded028344fa2b6f4bb1bceaf7c97175b
+      internalID: -1658802115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 217
+        width: 341
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a719071ab0d04483ef9bb3b021f11
+      internalID: 625294083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 217
+        width: 261
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8639373e8d0246b83f216ed2a39be
+      internalID: 946599929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 217
+        width: 181
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d760e5a6a2c6c4ab1f927db8877279
+      internalID: 548496809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 217
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e279662521e5e49a019be925aa9df3
+      internalID: -1545105455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 218
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5359af93d8f70c4f974171248b94f67
+      internalID: 638175150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 184
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef405cf88e3c6143b39c9363706e6ce
+      internalID: 1069600423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 163
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6e1bcdaa97d84288c77e2531b2026
+      internalID: -930554788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 165
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea7a80f5f723e347973d32c8a9a8653
+      internalID: 1978160809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 141
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17185db42f3328a4a984a9f6607be048
+      internalID: -1866170813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 141
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b462a10c11b8494a911c68bb27f67aa
+      internalID: 837958684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 141
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787125cc2fec1442a79cbfb13110057
+      internalID: -1484915956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 172
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4032d39dd37eb54684f2b08e9b1c774
+      internalID: -1484585564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 171
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a5d9ee4d4343a4199ffb1776f3acef
+      internalID: -2070763667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 171
+        width: 85
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d14b890e58f84ab1661cd2b81eb0d
+      internalID: 299413026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_17
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 172
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d29e65041fee4697e1b5c80d5627f
+      internalID: -107051089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 172
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c2a55d58cf9e41aea48ae936bed39
+      internalID: -172323716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_19
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 171
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c0f972bcb59346a4c3b279bb23122
+      internalID: -1844654273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_20
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 172
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06d26aab0a60c04aa652f0ded96266c
+      internalID: 841466835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_21
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 172
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02972785115f7bb46a8534ce631d8b61
+      internalID: -299617879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_22
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ccc12dc3b0674dad1adaada2908b0
+      internalID: 722760324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18943278b06555840879d78f1a8bbfe6
+      internalID: -230155561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_24
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 171
+        width: 109
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e49a4e3c284542beb306b2dedd372
+      internalID: 2126155463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 172
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f105e10223b8c848ac83117c757e8a0
+      internalID: 1525009948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_26
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 171
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd46ac6387d1a47bddd761cc992311
+      internalID: 2012409318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_27
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 171
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348c121eb20dc34b9ad087305c966de
+      internalID: 1500034787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_28
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 172
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f082aa1a95071347aa8236d41e1de44
+      internalID: -50475166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_29
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 172
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed805046bbff3a47817e773e77bca62
+      internalID: 1051659774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_30
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 166
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc5ecd646d6854ebe15a002ddd8e1f
+      internalID: -1535180102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_31
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 164
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11364a626a6b64c815fd7fc09a4134
+      internalID: 2015918513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7295e71eb9df49981f848515e3bdb
+      internalID: -953506906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 133
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8996424920b524f8ef3c12a8ef474d
+      internalID: 1096935239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 140
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbd57bd7a975aa4da4bec3b4b306d42
+      internalID: -585641117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 139
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26787450fc08c6a4c91289460b394519
+      internalID: 857749241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 139
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3bb5531a9465e46b6f00b502de6eb3
+      internalID: 1272275109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 141
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf85d762faa36ce458abe254b3d3b35f
+      internalID: -786614422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_38
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 76
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ac5a1ac5c3be4685782acb87608f3
+      internalID: 1315144458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_39
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 76
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7d7f87fd817f34cb2c9aabbf0b83cc
+      internalID: -371202467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_40
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 72
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247733e4eca75a14e927cb5f738b9f58
+      internalID: -1909535131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_41
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 69
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320d322ef3b3e94ca45e839da52c39e
+      internalID: -1444711689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_42
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 76
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4feb1511a50f914b8d8cb4ed113a076
+      internalID: 972946231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_43
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 76
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed932460d7780ea4984686fc25383cc0
+      internalID: 1327862060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 76
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade1ae68714fa68418fd923eb6ba6d75
+      internalID: 46326827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_45
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced7438feb068c84a9c64fea6f1ad2f0
+      internalID: -2120769482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37014f88470d79d4681f2fd4f6548d15
+      internalID: -637448926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_47
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 76
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c6db81b31ee349ae87de4731ebea6
+      internalID: 1128403895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_48
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 75
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff2ae8c6a0c974d89958268e0252d8
+      internalID: 1361546443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_49
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 76
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf625fc214fa804f85adbb7aea1a9f2
+      internalID: 832673365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_50
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 75
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a4e82e53b530441b96d6f2f63a6d7b
+      internalID: -80329802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_51
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20cb9e2e1e81dc4a81c56ccd406bc87
+      internalID: -292276832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_52
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0543d3cc290b1428c91b894e829e2d
+      internalID: -962624358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 11
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8ed630329e7d4d9b32e450d093b38
+      internalID: -1212677442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_54
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 12
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df671b2a2476804aa92bb95606d9086
+      internalID: 412894462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_55
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 13
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f19ef3a758c064babc7b3417c4051e
+      internalID: -547000012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_56
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 11
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea817630ebc0cc8489fe152301e11cbb
+      internalID: -1484146304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d819995ff73643646887d3d3690dfceb
+      internalID: -547240978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_58
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 12
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19127e5119464146b547ba57e7f0e0d
+      internalID: -1980187813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_59
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 11
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3551b5e8945c34b805451c5b56cf7e
+      internalID: 1059115419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_60
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 11
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfd92956177e445a6ff0bc55392c4f
+      internalID: -677718764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_61
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 12
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cf5a379ee3a74394d46b3b0057747
+      internalID: 290833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 12
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f12fc47b71c474c829601dc8653ee0
+      internalID: -944595517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_63
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe7bb0a25aa5245b14e8510552d946
+      internalID: 1453613041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_64
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 12
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd0c5a7e587f147bf2538d9bff8b7e
+      internalID: -1635960351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_65
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 11
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e926da1d7fc30541beab9823eeac11a
+      internalID: 2019076432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_66
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1819be083b1e4b998f6a2054a33d3
+      internalID: 288142627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_67
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 12
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6fba5679c639246bfcf32352e67ec1
+      internalID: 1915994122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_68
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 12
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2627c0143f8b337439a6c16ae1790f1c
+      internalID: 265527600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_69
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 11
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad74c59911fa54ab59307ff743b0d1
+      internalID: -113183289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_70
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 12
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47000c04894c11141ae2fb5461d66fe9
+      internalID: 109411743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_71
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 11
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee679bf2dfa874244a856c00e99ac41d
+      internalID: -663281071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_72
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 12
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1020e9b8f41cc45b18634495cdf7b2
+      internalID: -1683895275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - WarioWare Smooth Moves - Bomb_73
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 13
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814925d81db8fdb4998778fad148c85f
+      internalID: -1445470399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wii - WarioWare Smooth Moves - Bomb_0: -25349696
+      Wii - WarioWare Smooth Moves - Bomb_1: 1118616182
+      Wii - WarioWare Smooth Moves - Bomb_10: 1978160809
+      Wii - WarioWare Smooth Moves - Bomb_11: -1866170813
+      Wii - WarioWare Smooth Moves - Bomb_12: 837958684
+      Wii - WarioWare Smooth Moves - Bomb_13: -1484915956
+      Wii - WarioWare Smooth Moves - Bomb_14: -1484585564
+      Wii - WarioWare Smooth Moves - Bomb_15: -2070763667
+      Wii - WarioWare Smooth Moves - Bomb_16: 299413026
+      Wii - WarioWare Smooth Moves - Bomb_17: -107051089
+      Wii - WarioWare Smooth Moves - Bomb_18: -172323716
+      Wii - WarioWare Smooth Moves - Bomb_19: -1844654273
+      Wii - WarioWare Smooth Moves - Bomb_2: -1658802115
+      Wii - WarioWare Smooth Moves - Bomb_20: 841466835
+      Wii - WarioWare Smooth Moves - Bomb_21: -299617879
+      Wii - WarioWare Smooth Moves - Bomb_22: 722760324
+      Wii - WarioWare Smooth Moves - Bomb_23: -230155561
+      Wii - WarioWare Smooth Moves - Bomb_24: 2126155463
+      Wii - WarioWare Smooth Moves - Bomb_25: 1525009948
+      Wii - WarioWare Smooth Moves - Bomb_26: 2012409318
+      Wii - WarioWare Smooth Moves - Bomb_27: 1500034787
+      Wii - WarioWare Smooth Moves - Bomb_28: -50475166
+      Wii - WarioWare Smooth Moves - Bomb_29: 1051659774
+      Wii - WarioWare Smooth Moves - Bomb_3: 625294083
+      Wii - WarioWare Smooth Moves - Bomb_30: -1535180102
+      Wii - WarioWare Smooth Moves - Bomb_31: 2015918513
+      Wii - WarioWare Smooth Moves - Bomb_32: -953506906
+      Wii - WarioWare Smooth Moves - Bomb_33: 1096935239
+      Wii - WarioWare Smooth Moves - Bomb_34: -585641117
+      Wii - WarioWare Smooth Moves - Bomb_35: 857749241
+      Wii - WarioWare Smooth Moves - Bomb_36: 1272275109
+      Wii - WarioWare Smooth Moves - Bomb_37: -786614422
+      Wii - WarioWare Smooth Moves - Bomb_38: 1315144458
+      Wii - WarioWare Smooth Moves - Bomb_39: -371202467
+      Wii - WarioWare Smooth Moves - Bomb_4: 946599929
+      Wii - WarioWare Smooth Moves - Bomb_40: -1909535131
+      Wii - WarioWare Smooth Moves - Bomb_41: -1444711689
+      Wii - WarioWare Smooth Moves - Bomb_42: 972946231
+      Wii - WarioWare Smooth Moves - Bomb_43: 1327862060
+      Wii - WarioWare Smooth Moves - Bomb_44: 46326827
+      Wii - WarioWare Smooth Moves - Bomb_45: -2120769482
+      Wii - WarioWare Smooth Moves - Bomb_46: -637448926
+      Wii - WarioWare Smooth Moves - Bomb_47: 1128403895
+      Wii - WarioWare Smooth Moves - Bomb_48: 1361546443
+      Wii - WarioWare Smooth Moves - Bomb_49: 832673365
+      Wii - WarioWare Smooth Moves - Bomb_5: 548496809
+      Wii - WarioWare Smooth Moves - Bomb_50: -80329802
+      Wii - WarioWare Smooth Moves - Bomb_51: -292276832
+      Wii - WarioWare Smooth Moves - Bomb_52: -962624358
+      Wii - WarioWare Smooth Moves - Bomb_53: -1212677442
+      Wii - WarioWare Smooth Moves - Bomb_54: 412894462
+      Wii - WarioWare Smooth Moves - Bomb_55: -547000012
+      Wii - WarioWare Smooth Moves - Bomb_56: -1484146304
+      Wii - WarioWare Smooth Moves - Bomb_57: -547240978
+      Wii - WarioWare Smooth Moves - Bomb_58: -1980187813
+      Wii - WarioWare Smooth Moves - Bomb_59: 1059115419
+      Wii - WarioWare Smooth Moves - Bomb_6: -1545105455
+      Wii - WarioWare Smooth Moves - Bomb_60: -677718764
+      Wii - WarioWare Smooth Moves - Bomb_61: 290833666
+      Wii - WarioWare Smooth Moves - Bomb_62: -944595517
+      Wii - WarioWare Smooth Moves - Bomb_63: 1453613041
+      Wii - WarioWare Smooth Moves - Bomb_64: -1635960351
+      Wii - WarioWare Smooth Moves - Bomb_65: 2019076432
+      Wii - WarioWare Smooth Moves - Bomb_66: 288142627
+      Wii - WarioWare Smooth Moves - Bomb_67: 1915994122
+      Wii - WarioWare Smooth Moves - Bomb_68: 265527600
+      Wii - WarioWare Smooth Moves - Bomb_69: -113183289
+      Wii - WarioWare Smooth Moves - Bomb_7: 638175150
+      Wii - WarioWare Smooth Moves - Bomb_70: 109411743
+      Wii - WarioWare Smooth Moves - Bomb_71: -663281071
+      Wii - WarioWare Smooth Moves - Bomb_72: -1683895275
+      Wii - WarioWare Smooth Moves - Bomb_73: -1445470399
+      Wii - WarioWare Smooth Moves - Bomb_8: 1069600423
+      Wii - WarioWare Smooth Moves - Bomb_9: -930554788
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

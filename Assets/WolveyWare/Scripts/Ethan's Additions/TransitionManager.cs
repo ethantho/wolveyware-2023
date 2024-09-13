@@ -9,6 +9,12 @@ public class TransitionManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI successMessage;
     [SerializeField] TextMeshProUGUI failureMessage;
     [SerializeField] TextMeshProUGUI countDown;
+
+    [SerializeField] AudioSource winAud;
+    [SerializeField] AudioSource loseAud;
+
+    [SerializeField] AudioSource nextAud;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,13 +41,22 @@ public class TransitionManager : MonoBehaviour
         
     }
 
+    void SetAudioSpeed(){
+        float newSpeed = (float) ScoreTracker.bpm / 140f;
+        Debug.Log("SPEED:" + (newSpeed).ToString());
+        winAud.pitch = newSpeed;
+        loseAud.pitch = newSpeed;
+        nextAud.pitch = newSpeed;
+
+    }
+
     void StartTransition()
     {
         startMessage.enabled = true;
         successMessage.enabled = false;
         failureMessage.enabled = false;
         countDown.enabled = false;
-
+        SetAudioSpeed();
         StartCoroutine("StartAnim");
 
     }
@@ -52,7 +67,7 @@ public class TransitionManager : MonoBehaviour
         successMessage.enabled = true;
         failureMessage.enabled = false;
         countDown.enabled = false;
-
+        SetAudioSpeed();
         StartCoroutine("SuccessAnim");
     }
 
@@ -62,7 +77,7 @@ public class TransitionManager : MonoBehaviour
         successMessage.enabled = false;
         failureMessage.enabled = true;
         countDown.enabled = false;
-
+        SetAudioSpeed();
         StartCoroutine("FailureAnim");
     }
 
@@ -72,6 +87,8 @@ public class TransitionManager : MonoBehaviour
         float beatInterval = 60f / (float)ScoreTracker.bpm;
         Vector3 big = new Vector3(1.2f, 1.2f, 1.2f);
         Vector3 small = new Vector3(0.8f, 0.8f, 0.8f);
+
+        winAud.Play();
         for (int i = 0; i < 4; ++i)
         {
             startMessage.transform.localScale = big;
@@ -86,7 +103,7 @@ public class TransitionManager : MonoBehaviour
 
         countDown.enabled = true;
 
-
+        nextAud.Play();
         for (int i = 3; i > 0; --i)
         {
             countDown.transform.localScale = big;
@@ -116,6 +133,7 @@ public class TransitionManager : MonoBehaviour
         float beatInterval = 60f / (float)ScoreTracker.bpm;
         Vector3 big = new Vector3(1.2f, 1.2f, 1.2f);
         Vector3 small = new Vector3(0.8f, 0.8f, 0.8f);
+        winAud.Play();
         for (int i = 0; i < 4; ++i)
         {
             successMessage.transform.localScale = big;
@@ -130,7 +148,7 @@ public class TransitionManager : MonoBehaviour
 
         countDown.enabled = true;
 
-
+        nextAud.Play();
         for (int i = 3; i > 0; --i)
         {
             countDown.transform.localScale = big;
@@ -160,6 +178,7 @@ public class TransitionManager : MonoBehaviour
         float beatInterval = 60f / (float)ScoreTracker.bpm;
         Vector3 big = new Vector3(1.2f, 1.2f, 1.2f);
         Vector3 small = new Vector3(0.8f, 0.8f, 0.8f);
+        loseAud.Play();
         for (int i = 0; i < 4; ++i)
         {
             failureMessage.transform.localScale = big;
@@ -173,8 +192,7 @@ public class TransitionManager : MonoBehaviour
         failureMessage.enabled = false;
 
         countDown.enabled = true;
-
-
+        nextAud.Play();
         for (int i = 3; i > 0; --i)
         {
             countDown.transform.localScale = big;

@@ -11,7 +11,7 @@ public class BlitzModeManager : ModeManager
     Coroutine blitzModeCoroutine;
     bool minigameActive = true;
     int score = 0;
-    int lives = 0;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +19,7 @@ public class BlitzModeManager : ModeManager
         Instance = this;
 
         DontDestroyOnLoad(gameObject);
+        isBlitzMode = true;
     }
 
     IEnumerator BlitzMode()
@@ -61,6 +62,7 @@ public class BlitzModeManager : ModeManager
             }
 
             Time.timeScale *= 1.25f;
+            ScoreTracker.bpm *= 1.25f;
         }
 
         
@@ -96,7 +98,7 @@ public class BlitzModeManager : ModeManager
     public void DoTransition()
     {
 
-        
+        TimerBomb.instance.HideBombTimer();
         SceneManager.LoadSceneAsync(1);
 
 

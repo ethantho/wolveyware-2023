@@ -10,6 +10,8 @@ public enum MinigameResultType
 
 public class MinigameManager : MonoBehaviour
 {
+    
+    
     [Header("Minigame Settings")]
     public string minigameName;
     public List<string> creators;
@@ -19,10 +21,16 @@ public class MinigameManager : MonoBehaviour
     public bool hasGun;
     public bool hasMeleeAttack;
 
+    [Header("Minigame Sounds")]
+    public AudioSource SuccessSound;
+    public AudioSource FailureSound;
+
     bool succeeded = false;
     bool failed = false;
 
     public static MinigameManager Current { get; private set; }
+
+    
 
     // Start is called before the first frame update
     void Start()
@@ -54,20 +62,24 @@ public class MinigameManager : MonoBehaviour
             Player.Instance.SetGunEnabled(hasGun);
             Player.Instance.SetMeleeAttackEnabled(hasMeleeAttack);
         }
+        TimerBomb.instance.StartBombTimer();
     }
 
     public static void MinigameSuccess()
     {
         Current.succeeded = true;
+        Current.SuccessSound.Play();
         if(ModeManager.Instance != null)
         {
             ModeManager.Instance.OnSuccess(Current);
         }
+
     }
 
     public static void MinigameFailure()
     {
         Current.failed = true;
+        Current.FailureSound.Play();
         if (ModeManager.Instance != null)
         {
             ModeManager.Instance.OnFailure(Current);

@@ -6,7 +6,7 @@ public static class ScoreTracker
 {
     // Start is called before the first frame update
     public static int score = 0;
-    public static int bpm = 100;
+    public static float bpm = 140;
     public enum ScoreTrackerResult
     {
         start,success, failure
