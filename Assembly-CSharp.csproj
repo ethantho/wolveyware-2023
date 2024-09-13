@@ -76,6 +76,7 @@
     <Compile Include="Assets\WolveyWare\Scripts\Combat\Attackable.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Core\MinigameManager.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Player\PlayerGun.cs" />
+    <Compile Include="Assets\WolveyWare\Scripts\Ethan&apos;s Additions\SceneLoader.cs" />
     <Compile Include="Assets\PapersPlease\Scripts\CheckpointManager.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Ethan&apos;s Additions\TransitionManager.cs" />
     <Compile Include="Assets\Examples\Defend The Oreos\Scripts\Rock.cs" />
@@ -83,18 +84,19 @@
     <Compile Include="Assets\GavinM - Yard Work\Scripts\CheckCompleteFieldwork.cs" />
     <Compile Include="Assets\GavinM - Juump\Scripts\FireBallJuump.cs" />
     <Compile Include="Assets\GavinM - Juump\Scripts\SpriteControllerJuump.cs" />
-    <Compile Include="Assets\TimerBomb.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Misc\MoveBackAndFourth.cs" />
     <Compile Include="Assets\EthanTho\MauricedPlayerDeath.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Combat\ProjectileDamage.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\UI\WolveywareCanvasManager.cs" />
     <Compile Include="Assets\Examples\Strike Gold\Scripts\GoldPot.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Ethan&apos;s Additions\MascotBounce.cs" />
+    <Compile Include="Assets\WolveyWare\Scripts\Ethan&apos;s Additions\TimerBomb.cs" />
     <Compile Include="Assets\ReuniteSeals\Sealtouch.cs" />
     <Compile Include="Assets\EthanTho\FireballController.cs" />
     <Compile Include="Assets\ReuniteSeals\Jumpsound.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Examples\Defend The Oreos\Scripts\OreoManager.cs" />
+    <Compile Include="Assets\WolveyWare\Scripts\Ethan&apos;s Additions\LivesIndicator.cs" />
     <Compile Include="Assets\GavinM - Juump\Scripts\SmallFireJuump.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\Combat\ProjectileMovement.cs" />
     <Compile Include="Assets\GavinM - Juump\Scripts\WarnPulseJuump.cs" />
@@ -117,8 +119,6 @@
     <Compile Include="Assets\EthanTho\MoaiDeath.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\UI\MinigameButton.cs" />
     <Compile Include="Assets\WolveyWare\Scripts\UI\SingleMinigameModeUI.cs" />
-    <Compile Include="Assets\LivesIndicator.cs" />
-    <Compile Include="Assets\SceneLoader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
